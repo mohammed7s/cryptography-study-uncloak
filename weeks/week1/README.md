@@ -24,3 +24,8 @@ General:
     What is a side channel attack? Is your cipher implementation constant time?
     Extra: Read New Directions in Cryptography.
     Extra: Consider ways to contribute what you learned this week to the Uncloak knowledge graph.
+
+
+
+
+	Q.3 The 256 bit.
