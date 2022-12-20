@@ -1,6 +1,6 @@
 mod lib;
 
 pub fn main() {
-    println!("Hello, world!");
-    lib::vigenere("hi", "mate"); 
+    lib::vigenere("lemon", "mohammed"); 
+    lib::vigenere_decrypt("lemon", "xstozxip")
 }
